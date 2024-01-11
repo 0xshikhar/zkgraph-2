@@ -26,6 +26,7 @@
     "axios-retry": "^3.8.0",
     "bn.js": "^5.2.1",
     "commander": "^11.0.0",
+    "dotenv": "^16.3.1",
     "ethers": "^5.7.2",
     "form-data": "^4.0.0",
     "inquirer": "^9.2.11",
