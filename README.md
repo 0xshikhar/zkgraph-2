@@ -1,4 +1,4 @@
-# zkGraph for Creating and Updating User KYC
+# zkGraph for Creating and Updating User
 
 > **_NOTE:_**  For the latest version, please check out [zkgraph-cli](https://github.com/hyperoracle/zkgraph-cli).
 
